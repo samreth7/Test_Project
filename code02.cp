@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-int i;
+int i; 
+char operation;
 void main(){
     printf("Hello World at the first time");
     getch();
