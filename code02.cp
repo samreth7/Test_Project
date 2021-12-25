@@ -6,4 +6,10 @@ void main(){
     getch();
     printf("Enter number u want:);
     scanf("%d",&i); 
+    clrscr();
+    printf("Number u have just input is %d",i);
+    printf("now enter operation to calculate it with numer 10: ":);
+    gets(opertation);
+    getch();
+     
 }
